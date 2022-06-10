@@ -1,0 +1,6 @@
+*
+!public/
+!downloads/
+!uploads/
+!public/uploads/
+!.gitignore
